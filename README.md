@@ -6,3 +6,6 @@
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 |  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://drive.google.com/drive/folders/1WxxMAe_yj1QMWNu-2Ub0CXdp5PhN97VU "Modul 01") | [Program](https://github.com/dickadty/modul1-mobile "Template laporan") |
+|  1 | 03-09-2025  | 02  | 	Widget Row dan Column | [Modul 01](https://drive.google.com/drive/folders/1WxxMAe_yj1QMWNu-2Ub0CXdp5PhN97VU "Modul 02") | [Program](https://github.com/dickadty/modul1-mobile "Template laporan") |
+|  1 | 10-09-2025  | 03  | 	Pengaturan Layout Row dan Column di Flutter| [Modul 01](https://drive.google.com/drive/folders/1WxxMAe_yj1QMWNu-2Ub0CXdp5PhN97VU "Modul 03") | [Program](https://github.com/dickadty/modul1-mobile "Template laporan") |
+|  1 | 10-09-2025  | 04  | 	Widget Flexible dan Expanded | [Modul 01](https://drive.google.com/drive/folders/1WxxMAe_yj1QMWNu-2Ub0CXdp5PhN97VU "Modul 04") | [Program](https://github.com/dickadty/modul1-mobile "Template laporan") |
