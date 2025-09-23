@@ -11,7 +11,7 @@
 |  4 | 10-09-2025  | 04  | 	Widget Flexible dan Expanded | [Modul 04](https://drive.google.com/drive/folders/1Res02Y-FKqL26_KO9F5Nfg7zkzdO77-x?usp=drive_link "Modul 04") | [Program](https://github.com/230605110050-jpg/Modul4 "Template laporan") |
 |  5 | 17-09-2025  | 05  | 	Widget SizedBox, Spacer, dan Card |[Modul 05](https://docs.google.com/document/d/1mly0M2CqCq2GX_hI-f67sUv1_-PRviZtoif3478gqE0/edit?tab=t.0)| [Program](https://github.com/230605110050-jpg/Modul5) |
 |  6 | 17-09-2025  | 06  | 	Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1ImzGE2RS08_bEc9Sj5-hhSnR7kWuAULCm956JBFCtNA/edit?tab=t.0#heading=h.s1pt0fxxmhgl) | [Program](https://github.com/230605110050-jpg/Modul6) |
-|  7 | 24-09-2025  | 07  | 	Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route |[Modul 07](https://github.com/230605110050-jpg/Modul7) |
+|  7 | 24-09-2025  | 07  | 	Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route |[Modul 07] [Program](https://github.com/230605110050-jpg/Modul7) |
 |  8 | 24-09-2025  | 08  | 	Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://docs.google.com/document/d/1ImzGE2RS08_bEc9Sj5-hhSnR7kWuAULCm956JBFCtNA/edit?tab=t.0#heading=h.s1pt0fxxmhgl) | [Program](https://github.com/230605110050-jpg/Modul6) |
 
 
