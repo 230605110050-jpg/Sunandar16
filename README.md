@@ -15,4 +15,3 @@
 |  8 | 24-09-2025  | 08  | 	Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://docs.google.com/document/d/1_pUqVtY-vX89HHaBVqDCMTFStXvwGZSVrRBF5pemr0I/edit?tab=t.0) | [Program](https://github.com/230605110050-jpg/Modul8) |
 |  9 | 01-10-2025  | 09  | 	StatefulWidget | [Modul 09](https://docs.google.com/document/d/1Z-eyzbtxkVjLB_nVHynd93i1yA3S4AaLP_j40AVHtl0/edit?tab=t.0) | [Program](https://github.com/230605110050-jpg/Modul9) |
 |  10 | 08-10-2025  | 10  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1NMvK9aBFrpRn6tSNtthX972g5A-wfSQtu4nktV08J1k/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/Modul10) |
-https://docs.google.com/document/d/1NMvK9aBFrpRn6tSNtthX972g5A-wfSQtu4nktV08J1k/edit?usp=sharing
