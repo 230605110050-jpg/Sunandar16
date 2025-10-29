@@ -17,6 +17,5 @@
 |  10 | 08-10-2025  | 10  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1NMvK9aBFrpRn6tSNtthX972g5A-wfSQtu4nktV08J1k/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/Modul10) |
 |  11 | 15-10-2025  | 11  | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/137YB0BgiqjANUS2w7e-kHHwzoX17vHxD5yA6CodOPUM/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/Modul11) |
 |     |             |     |                |  |  |
-
-https://github.com/230605110050-jpg/UTS_mobille_programming
+|  12 | 28-10-2025  | 12  | UTS Mobile Programming | [UTS](https://docs.google.com/document/d/1_ZcYlCbMY-XZ-_cdL9BhC33Ffk7sE6-2Tef0pd11F3c/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/UTS_mobille_programming) |
 
