@@ -18,6 +18,7 @@
 |  11 | 15-10-2025  | 11  | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/137YB0BgiqjANUS2w7e-kHHwzoX17vHxD5yA6CodOPUM/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/Modul11) |
 |     |             |     |                |  |  |
 |  12 | 28-10-2025  | 12  | UTS Mobile Programming | [UTS](https://docs.google.com/document/d/1_ZcYlCbMY-XZ-_cdL9BhC33Ffk7sE6-2Tef0pd11F3c/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/UTS_mobille_programming) |
+|     |             |     |                |  |  |
 |  12 | 04-11-2025  | 13  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1amMxSQI2m5NpVa8ty-STGyW4RkuXLKT__Rt5dhR0NVQ/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/Modul12) |
 |  12 | 04-11-2025  | 14  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://docs.google.com/document/d/1bCMsNlzFez9UcCzTHaa7Q7GKCJ5l3Bea4Gq3gANlo3U/edit?usp=sharing) | [Program](https://github.com/230605110050-jpg/Modul13) |
 
